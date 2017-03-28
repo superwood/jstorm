@@ -23,6 +23,7 @@
             <version>${jstorm.version}</version>
             <scope>provided</scope>
         </dependency>
+        <!--
         <dependency>
             <groupId>com.taobao.metaq.final</groupId>
             <artifactId>metaq-client</artifactId>
@@ -34,7 +35,7 @@
             <artifactId>snakeyaml</artifactId>
             <version>1.11</version>
         </dependency>
-        
+        !-->
         <!--
         <dependency>
             <groupId>com.alibaba.rocketmq</groupId>

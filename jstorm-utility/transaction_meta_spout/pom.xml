@@ -23,11 +23,13 @@
             <version>${jstorm.version}</version>
 			<scope>provided</scope>
         </dependency>
+        <!--
         <dependency>
             <groupId>com.taobao.metaq.final</groupId>
             <artifactId>metaq-client</artifactId>
             <version>${metaq.version}</version>
         </dependency>
+        !-->
 		<dependency>
 			<groupId>org.yaml</groupId>
 			<artifactId>snakeyaml</artifactId>
